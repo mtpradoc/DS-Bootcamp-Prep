@@ -63,3 +63,12 @@ Dive deeper into recommender systems, neural networks, and computer vision model
 - Practice with data science case studies to prepare for job interviews.
 
 **Project**: Choose a data set to explore and model, providing a detailed notebook of your technical approach and a public presentation on your findings.
+
+
+# Tools
+| Tools Used | Version | Need on Day 1 | How to Download/Access |
+---
+| Python |  | Yes | You will take part in an Installfest in class on Day 1 to Download this tool. |
+| SQL |  | No | You will take part in an Installfest in class on Day 1 to download this tool. |
+| Scala |  | No | You will take part in an Installfest in class on Day 1 to download this tool. |
+| Spark |  | No | You will take part in an Installfest in class on Day 1 to download this tool. |
