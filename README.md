@@ -41,6 +41,19 @@ Explore effective study design and model evaluation and optimization, implementi
 
 **Project**: Explore, clean, and model data based on a provided data set, outlining your strategy and explaining your results.
 
+# Unit 4 - Machine Learning Models
+Build machine learning models. Explore the differences between supervised and unsupervised learning via clustering, natural language processing, and neural networks.
+
+- Define clustering and its advantages and disadvantages as compared to classification models.
+- Build and evaluate ensemble models using decision trees, random forests, bagging, and boosting.
+- Get acquainted with natural language processing (NLP) through sentiment analysis of scraped website data.
+- Learn how Naive Bayes can simplify the process of analyzing data for supervised learning algorithms.
+- Explore the history and use of Hadoop, as well as the advantages and disadvantages of using parallel or distributed systems to store, access, and analyze big data.
+- Understand how Hive interacts with Hadoop and discover Spark's advantages through big data case studies.
+- Analyze and model time series data using the ARIMA model.
+
+**Project**: Students will scrape and model their own data using multiple methods, outlining their approach and evaluating any risks or limitations.
+
 # Unit 5 - Advanced Topics and Trends
 Dive deeper into recommender systems, neural networks, and computer vision models, implementing what you've learned to productize models.
 
