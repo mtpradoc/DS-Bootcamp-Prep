@@ -67,7 +67,7 @@ Dive deeper into recommender systems, neural networks, and computer vision model
 
 # Tools
 | Tools Used | Version | Need on Day 1 | How to Download/Access |
----
+-------------|---------|---------------|------------------------|
 | Python |  | Yes | You will take part in an Installfest in class on Day 1 to Download this tool. |
 | SQL |  | No | You will take part in an Installfest in class on Day 1 to download this tool. |
 | Scala |  | No | You will take part in an Installfest in class on Day 1 to download this tool. |
